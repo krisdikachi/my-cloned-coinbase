@@ -1,1 +1,677 @@
-.main_header{position:static}.coinbase_header{color:rgba(0,82,255,2);font-size:30px;padding-left:7.1%;padding-top:10px;font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;font-weight:400;-webkit-font-smoothing:antialiased}.blue_header{background-color:rgba(0,82,255,2);color:#fff;font-size:20px;height:40px;padding-left:35.5%}.text_header{color:#000;font-size:15px;margin-left:125px;font-weight:700}.text_header:hover{text-decoration:underline;transform:scale(1.1);transition:1s;text-decoration-color:rgba(0,82,255,2)}.text_header a{text-decoration:none;color:#000}.text_header a{text-decoration-color:rgba(0,82,255,2)}.texts_header{color:#000;font-size:15px;margin-left:50px;font-weight:700}.texts_header:hover{text-decoration:underline;transform:scale(1.1);transition:1s;text-decoration-color:rgba(0,82,255,2)}.texts_header a{text-decoration:none;color:#000}.texts_header a{text-decoration-color:rgba(0,82,255,2)}.textss_header{font-size:15px;margin-left:80px;font-weight:700}.textss_header:hover{text-decoration:none;transform:scale(1.1);transition:1s;color:#00f}.textss_header a{text-decoration:none;color:#000}.textss_header a{text-decoration-color:#00f}.textss_header:hover{color:#00f;text-decoration-color:#00f;opacity:1}.textss_header:hover,a.textss_header:active{color:#00f}.text_header_log{color:#fff;font-size:12.5px;margin-left:15px;font-weight:700;background-color:rgba(0,82,255,2);border:none;width:90px;height:38.5px;border-radius:4px}.text_header_log a{text-decoration:none;color:#fff}.first_img{height:40px;width:35px}.phone{width:280px;height:520px;border-radius:60px;margin-left:15%;margin-top:3.5%;padding-left:5px;margin-top:-38px;margin-right:50%}.img_back{background-color:rgba(214,234,241,.534);border-radius:50%;height:450px;width:450px;margin-top:100px;float:right;margin-right:12%}.portfolio{color:rgba(0,82,255,2);font-weight:700;margin-top:9%;margin-left:12%;font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;font-size:18px}.btc_img{height:30px;width:30px;border-radius:90px}.portfolio2{font-size:60px;margin-left:12%;font-weight:700;font-family:CoinbaseDisplay,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;line-height:75px}.portfolio2_p{margin-left:12%;font-size:20px;font-weight:700;line-height:24px}.input{flex:1 1 0px;width:205px;margin-left:12%;padding:20px;border-radius:3px;background:0 0;font-size:18px;font-weight:400;border:1px solid grey;font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif}.get_started_btn{background-color:rgba(0,82,255,2);color:#fff;width:205px;height:70px;border-radius:4px;border:none;font-size:18px;margin-left:10px}.container_email{margin-top:10px}.get_started_btn:hover{cursor:pointer;background-color:#00f}.div_tab{border:1px solid grey;width:1100px;height:65px;justify-content:center;align-content:center;align-content:center;margin-left:auto;margin-right:auto;margin-top:100px}.btc_tab{height:35px;width:35px;padding-left:4%;padding-top:1px;border-radius:50px;cursor:pointer}.btc_sub_img{padding-left:7px;font-size:20px;cursor:pointer}.price{padding-left:30%;cursor:default}.i{padding-left:10px}.percent{padding-left:5%;color:green;cursor:default}.chart{padding-left:80px}padding .buy_btn{background-color:#008040;color:#fff;height:40px;width:70px;border:0;border-radius:5px;margin-left:60px}.buy_btn:hover{background-color:#009b4e}.table_main{width:1100px;height:65px;justify-content:center;align-content:center;align-items:center;margin-left:auto;margin-right:auto}.buy_btns{background-color:#fff;color:#000;padding-left:100px;border:none}.chart_ch{padding-left:60px}.prizes{padding-left:40%}.percents{padding-left:90px}.iheader:hover{background-color:rgba(230,222,222,.822)}.transfrom_img{margin-top:20%;margin-left:55%;font-size:22px;font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;width:500px;height:65px}.green_earn{padding-left:30%;color:#008040;font-size:15px}.transfrom_img:hover{transform:scale(1.1);transition:1s;box-shadow:2px 2px 3px grey;cursor:pointer}.transforms_img{margin-top:25px;width:500px;height:65px;font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;margin-left:55%;font-size:22px}.transforms_img:hover{transform:scale(1.1);transition:1s;cursor:pointer;box-shadow:2px 2px 3px grey}.greens_earn{color:#008040;font-size:15px;padding-left:23%}.greens_earns{color:#008040;font-size:15px;padding-left:38%}.p_transform{font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;font-size:30px;margin-left:110px;float:left;justify-content:left;align-content:left;margin-top:90px}.p_p_transform{font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;font-size:15px;font-weight:lighter;line-height:5px}.p_btn{width:120px;height:40px;background-color:rgba(0,82,255,2);color:#fff;border:none;border-radius:5px}.p_btn:hover{background-color:#00f;cursor:pointer}.p a{color:rgba(0,82,255,2)}.view_s{color:rgba(0,82,255,2);font-size:15px;margin-left:55%}.h4_center{font-size:40px;text-align:center;font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif}.p_h4{text-align:center;font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;font-size:16px;font-weight:lighter}.board_img{width:700px;height:464px;align-content:right;margin-left:4%;padding-top:60px}.icon_img{height:50px;width:50px;border-radius:50%;box-shadow:2px 2px 3px grey;margin-left:120px}.head_icon_img{margin-left:20px;font-weight:700;font-size:20px;font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;padding-top:30px}.p_icon_img{margin-left:25.5%;font-size:18px;font-weight:lighter;line-height:25px;padding-left:45px}.sec_mot_div{display:flex;margin-top:80px}.hr_head{text-align:center;font-size:40px;font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;font-weight:700}.p_head{text-align:center;font-weight:lighter;font-size:18px;color:grey}.secure_head{font-size:25px;font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif}.sec_p{font-weight:lighter}.reason{display:inline-flex;align-content:center;align-items:center;justify-content:center;margin-left:20%}.nested_reason{margin-left:40px}.blue{color:#00f;text-decoration:none}.mid_blue_header{background:rgba(0,82,255,2);color:#fff;font-weight:700;font-size:60px;height:200px;display:flex;text-align:center;align-items:center}.first{margin-left:20%}.second{margin-left:15%}.third{margin-left:15%}.span_mid_blue_header{color:rgba(235,235,235,.952);font-size:15px}.under_span_mid_blue_header{text-align:center;font-size:40px;font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif}.p_under_span_mid_blue_header{text-align:center;font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;font-size:20px;font-weight:lighter}.p_account_icon{font-size:25px;font-family:CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif}.icon_img_account{margin-left:50px}.main_account_icon{display:flex}.hr-lines:before{content:" ";display:block;height:2px;width:130px;position:absolute;top:50%;left:0;background:red}.hr-lines{position:relative}.hr-lines{position:relative;max-width:500px;margin:100px auto;text-align:center}.hr-lines:after{content:" ";height:2px;width:130px;background:red;display:block;position:absolute;top:50%;right:0}
+.main_header {
+    position: static
+}
+
+.coinbase_header {
+    color: rgba(0, 82, 255, 2);
+    font-size: 30px;
+    padding-left: 7.1%;
+    padding-top: 10px;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+}
+
+.blue_header {
+    background-color: rgba(0, 82, 255, 2);
+    color: #fff;
+    font-size: 20px;
+    height: 40px;
+    padding-left: 35.5%
+}
+
+.text_header {
+    color: #000;
+    font-size: 15px;
+    margin-left: 125px;
+    font-weight: 700
+}
+
+.text_header:hover {
+    text-decoration: underline;
+    transform: scale(1.1);
+    transition: 1s;
+    text-decoration-color: rgba(0, 82, 255, 2)
+}
+
+.text_header a {
+    text-decoration: none;
+    color: #000
+}
+
+.text_header a {
+    text-decoration-color: rgba(0, 82, 255, 2)
+}
+
+.texts_header {
+    color: #000;
+    font-size: 15px;
+    margin-left: 50px;
+    font-weight: 700
+}
+
+.texts_header:hover {
+    text-decoration: underline;
+    transform: scale(1.1);
+    transition: 1s;
+    text-decoration-color: rgba(0, 82, 255, 2)
+}
+
+.texts_header a {
+    text-decoration: none;
+    color: #000
+}
+
+.texts_header a {
+    text-decoration-color: rgba(0, 82, 255, 2)
+}
+
+.textss_header {
+    font-size: 15px;
+    margin-left: 80px;
+    font-weight: 700
+}
+
+.textss_header:hover {
+    text-decoration: none;
+    transform: scale(1.1);
+    transition: 1s;
+    color: #00f
+}
+
+.textss_header a {
+    text-decoration: none;
+    color: #000
+}
+
+.textss_header a {
+    text-decoration-color: #00f
+}
+
+.textss_header:hover {
+    color: #00f;
+    text-decoration-color: #00f;
+    text-decoration-line: underline;
+    
+    opacity: 1
+}
+
+.textss_header:hover,
+a.textss_header:active {
+    color: #00f
+}
+
+.text_header_log {
+    color: #fff;
+    font-size: 12.5px;
+    margin-left: 15px;
+    font-weight: 700;
+    background-color: rgba(0, 82, 255, 2);
+    border: none;
+    width: 90px;
+    height: 38.5px;
+    border-radius: 4px
+}
+
+.text_header_log a {
+    text-decoration: none;
+    color: #fff
+}
+
+.first_img {
+    height: 40px;
+    width: 35px
+}
+
+.phone {
+    width: 280px;
+    height: 520px;
+    border-radius: 60px;
+    margin-left: 15%;
+    margin-top: 3.5%;
+    padding-left: 5px;
+    margin-top: -38px;
+    margin-right: 50%
+}
+
+
+.texts_headers {
+    color: #000;
+    font-size: 15px;
+    margin-left: 50px;
+    font-weight: 700
+}
+
+.texts_headers:hover {
+    text-decoration: underline;
+    transform: scale(1.1);
+    transition: 1s;
+    text-decoration-color: rgba(0, 82, 255, 2)
+}
+
+.texts_headers a {
+    text-decoration: none;
+    color: #000
+}
+
+.texts_headers a {
+    text-decoration-color: rgba(0, 82, 255, 2)
+}
+
+.img_back {
+    background-color: rgba(214, 234, 241, .534);
+    border-radius: 50%;
+    height: 450px;
+    width: 450px;
+    margin-top: 100px;
+    float: right;
+    margin-right: 12%
+}
+
+.portfolio {
+    color: rgba(0, 82, 255, 2);
+    font-weight: 700;
+    margin-top: 9%;
+    margin-left: 12%;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 18px
+}
+
+.btc_img {
+    height: 30px;
+    width: 30px;
+    border-radius: 90px
+}
+
+.portfolio2 {
+    font-size: 60px;
+    margin-left: 12%;
+    font-weight: 700;
+    font-family: CoinbaseDisplay, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    line-height: 75px
+}
+
+.portfolio2_p {
+    margin-left: 12%;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px
+}
+
+.input {
+    flex: 1 1 0px;
+    width: 205px;
+    margin-left: 12%;
+    padding: 20px;
+    border-radius: 3px;
+    background: 0 0;
+    font-size: 18px;
+    font-weight: 400;
+    border: 1px solid grey;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+}
+
+.get_started_btn {
+    background-color: rgba(0, 82, 255, 2);
+    color: #fff;
+    width: 205px;
+    height: 70px;
+    border-radius: 4px;
+    border: none;
+    font-size: 18px;
+    margin-left: 10px
+}
+
+.container_email {
+    margin-top: 10px
+}
+
+.get_started_btn:hover {
+    cursor: pointer;
+    background-color: #00f
+}
+
+.div_tab {
+    border: 0px solid red;
+    width: 1100px;
+    height: 65px;
+    display: ;
+    justify-content: center;
+    align-content: center;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px
+}
+
+.btc_tab {
+    height: 35px;
+    width: 35px;
+    padding-left: 4%;
+    padding-top: 1px;
+    border-radius: 50px;
+    cursor: pointer
+}
+
+.btc_sub_img {
+    padding-left: 7px;
+    font-size: 20px;
+    cursor: pointer
+}
+
+.price {
+    padding-left: 30%;
+    cursor: default
+}
+
+.i {
+    padding-left: 10px
+}
+
+.percent {
+    padding-left: 5%;
+    color: green;
+    cursor: default
+}
+
+.advice{
+    font-size: 40px;
+    vertical-align: middle;
+    padding-top: 170px;
+    font-weight: lighter;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    margin-left:250px;
+}
+.advices{
+    font-size: 20px;
+    vertical-align: middle;
+    padding-top: 30px;
+    font-weight: lighter;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    margin-left:250px;
+}
+.chart {
+    padding-left: 80px
+}
+.banner_boy{
+    width: 100%;
+    height: 500px;
+   background: url(image/banner.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  
+}
+
+    
+
+.buy_btn {
+    background-color: #008040;
+    color: #fff;
+    height: 40px;
+    width: 70px;
+    border: 0;
+    border-radius: 5px;
+    margin-left: 60px
+}
+
+.buy_btn:hover {
+    background-color: #009b4e
+}
+
+.table_main {
+    width: 1100px;
+    height: 65px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.buy_btns {
+    background-color: #fff;
+    color: #000;
+    padding-left: 100px;
+    border: none
+}
+
+.chart_ch {
+    padding-left: 60px
+}
+
+.prizes {
+    padding-left: 40%
+}
+
+.percents {
+    padding-left: 90px
+}
+
+.iheader:hover {
+    background-color: rgba(230, 222, 222, .822)
+}
+
+.transfrom_img {
+    margin-top: 20%;
+    margin-left: 55%;
+    font-size: 22px;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    width: 500px;
+    height: 65px
+}
+
+.green_earn {
+    padding-left: 30%;
+    color: #008040;
+    font-size: 15px
+}
+
+.transfrom_img:hover {
+    transform: scale(1.1);
+    transition: 1s;
+    box-shadow: 2px 2px 3px grey;
+    cursor: pointer
+}
+
+.transforms_img {
+    margin-top: 25px;
+    width: 500px;
+    height: 65px;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    margin-left: 55%;
+    font-size: 22px
+}
+
+.transforms_img:hover {
+    transform: scale(1.1);
+    transition: 1s;
+    cursor: pointer;
+    box-shadow: 2px 2px 3px grey
+}
+
+.greens_earn {
+    color: #008040;
+    font-size: 15px;
+    padding-left: 23%
+}
+
+.greens_earns {
+    color: #008040;
+    font-size: 15px;
+    padding-left: 38%
+}
+
+.p_transform {
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 30px;
+    margin-left: 110px;
+    float: left;
+    justify-content: left;
+    align-content: left;
+    margin-top: 90px
+}
+
+.p_p_transform {
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    line-height: 5px
+}
+
+.p_btn {
+    width: 120px;
+    height: 40px;
+    background-color: rgba(0, 82, 255, 2);
+    color: #fff;
+    border: none;
+    border-radius: 5px
+}
+
+.p_btn:hover {
+    background-color: #00f;
+    cursor: pointer
+}
+
+.p a {
+    color: rgba(0, 82, 255, 2)
+}
+
+.view_s {
+    color: rgba(0, 82, 255, 2);
+    font-size: 15px;
+    margin-left: 55%
+}
+
+.h4_center {
+    font-size: 40px;
+    text-align: center;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+}
+
+.p_h4 {
+    text-align: center;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    font-weight: lighter
+}
+
+.board_img {
+    width: 700px;
+    height: 464px;
+    align-content: right;
+    margin-left: 4%;
+    padding-top: 60px
+}
+
+.icon_img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 3px grey;
+    margin-left: 120px
+}
+
+.head_icon_img {
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    padding-top: 30px
+}
+
+.p_icon_img {
+    margin-left: 25.5%;
+    font-size: 18px;
+    font-weight: lighter;
+    line-height: 25px;
+    padding-left: 45px
+}
+
+.sec_mot_div {
+    display: flex;
+    margin-top: 80px
+}
+
+.hr_head {
+    text-align: center;
+    font-size: 40px;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-weight: 700
+}
+
+.p_head {
+    text-align: center;
+    font-weight: lighter;
+    font-size: 18px;
+    color: grey
+}
+
+.secure_head {
+    font-size: 25px;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+}
+
+.sec_p {
+    font-weight: lighter
+}
+
+.reason {
+    display: inline-flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20%
+}
+
+.nested_reason {
+    margin-left: 40px
+}
+
+.blue {
+    color: #00f;
+    text-decoration: none
+}
+
+.mid_blue_header {
+    background: rgba(0, 82, 255, 2);
+    color: #fff;
+    font-weight: 700;
+    font-size: 60px;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+
+    height: 200px;
+    display: flex;
+    text-align: center;
+    align-items: center
+}
+
+.mid_blue_headers {
+    background: rgba(0, 82, 255, 2);
+    color: #fff;
+    display: none;
+    font-weight: 700;
+    font-size: 90px;
+    height: 200px;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+
+    
+    text-align: center;
+    align-items: center
+}
+.first {
+    margin-left: 20%
+}
+
+.second {
+    margin-left: 15%
+}
+
+.third {
+    margin-left: 15%
+}
+
+.span_mid_blue_header {
+    color: rgba(235, 235, 235, .952);
+    font-size: 15px
+}
+
+.under_span_mid_blue_header {
+    text-align: center;
+    font-size: 40px;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+}
+
+.p_under_span_mid_blue_header {
+    text-align: center;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 20px;
+    font-weight: lighter
+}
+
+.p_account_icon {
+    font-size: 25px;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+}
+
+.icon_img_account {
+    margin-left: 50px
+}
+
+.main_account_icon {
+    display: flex
+}
+
+.hr-lines:before {
+    content: " ";
+    display: block;
+    height: 2px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    background: red
+}
+
+.hr-lines {
+    position: relative
+}
+
+.hr-lines {
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+    text-align: center
+}
+
+.hr-lines:after {
+    content: " ";
+    height: 2px;
+    width: 130px;
+    background: red;
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 0
+}@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] 
+    /* width: 100%; */
+    .blue_header{display: block;}
+    .coinbase_header{display: block;}
+    .texts_headers{display: none;}
+    .transfrom_img{margin-left: 30px;}
+    .advice{display: none;}
+    .advices{font-size: 30px;text-align: left;margin-left: 30px;color: green;}
+    .board_img{width:500px;margin-left: 30px;}
+    .textss_header{margin-left: 5px;}
+    .p_icon_img{display: none;}
+    .sec_mother{vertical-align:none;}
+    .mid_blue_headers{text-align: center;display: block;padding-top: 50px;}
+    .phone{display: none;}
+    .transforms_img{padding-top: -150px;margin-left: 30px;}
+    .group{margin-top: -150px;display: inline-block;margin-left: -50px;}
+    .table_main{border: none;display: none;}
+    td .i{display: none;}
+    .mid_blue_header{display: none;}
+    .reason{vertical-align: middle;justify-content: space-evenly;margin-left: 30px;}
+    .agenda{display: none;}
+    .biggie{display: none;}
+    
+    
+.div_tab
+    .btc_tab{margin-left: 0}
+    .prizes{display: none;}
+    .percent{vertical-align: middle;margin-left: 10px;text-align: center;}
+    .btc_sub_img{margin-left: 0;display: none;}
+    .input{margin-bottom: 30px;}
+    .iheader{width: fit-content;}
+.me{display: none;}
+    .price{margin-left: -290px;vertical-align: middle;}
+    .get_started_btn{margin-left: 60px;}
+    .img_back{display: none;}
+    .text_header{margin-left: 20px;}
+    .text_header_log{margin-left: 40px;}
+
+
