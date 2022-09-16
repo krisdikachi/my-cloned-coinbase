@@ -1,5 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
 .main_header {
-    position: static
+    position: -webkit-sticky
 }
 
 .coinbase_header {
@@ -253,6 +259,16 @@ a.textss_header:active {
     cursor: pointer
 }
 
+
+.btc_tabs {
+    height: 35px;
+    width: 35px;
+    padding-left: 4%;
+    padding-top: 1px;
+    border-radius: 50px;
+    cursor: pointer
+}
+
 .btc_sub_img {
     padding-left: 7px;
     font-size: 20px;
@@ -361,6 +377,7 @@ a.textss_header:active {
     width: 500px;
     height: 65px
 }
+.tranformer{margin-top: 300px;}
 
 .green_earn {
     padding-left: 30%;
@@ -602,7 +619,19 @@ a.textss_header:active {
 .main_account_icon {
     display: flex
 }
+.stronger{
+    font-size: 50px;
+    margin: 40px;
+    color: grey;
+    display: none;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 
+}
+.last-last{
+    display: none;
+}
+
+#bar_button{display: none;}
 .hr-lines:before {
     content: " ";
     display: block;
@@ -625,6 +654,7 @@ a.textss_header:active {
     text-align: center
 }
 
+
 .hr-lines:after {
     content: " ";
     height: 2px;
@@ -634,44 +664,107 @@ a.textss_header:active {
     position: absolute;
     top: 50%;
     right: 0
-}@media only screen and (max-width: 768px) {
+}@media only screen and (max-width: 1304px) {
   /* For mobile phones: */
   [class*="col-"] 
     /* width: 100%; */
-    .blue_header{display: block;}
-    .coinbase_header{display: block;}
+    .last-last{display: block;}
+    .blue_header{display: block; font-size: 50px;}
+    .coinbase_header{display: block; font-size: 70px;}
     .texts_headers{display: none;}
-    .transfrom_img{margin-left: 30px;}
-    .advice{display: none;}
-    .advices{font-size: 30px;text-align: left;margin-left: 30px;color: green;}
-    .board_img{width:500px;margin-left: 30px;}
-    .textss_header{margin-left: 5px;}
-    .p_icon_img{display: none;}
-    .sec_mother{vertical-align:none;}
+    .text_header{font-size: 35px;display: none;}
+    #bar_button{display: none;}
+    .texts_header{font-size: 35px;display: none;}
+    .text_header_log{width: 250px; height: 100px; font-size: 30px;float: right;}
+    .box_model{margin-top: 0px;width: 900px;margin-left: auto;margin-right: auto;}
+    .transforms_img{border: 0.5px solid grey;margin-top: 0px; width: 1000px;font-size: 40px;justify-content: space-between;height: 150px;}
+    
+    .advices{font-size: 50px;color: white;margin-left: 60px;}
+    /* .transfrom_img .transfo{border: 0.5px solid grey;margin-top: 0px; width: 1000px;font-size: 40px;justify-content: space-between;height: 150px;} */
+    .board_img{width:800px;margin-left: 300px;height: 800px;}
+    .textss_header{margin-left: 5px; font-size: 50px;}
+    .p_icon_img{display: block;font-size: 50px;word-spacing: 5px;font-weight: lighter;color: grey;line-height: 50px;}
+    /* .sec_mother{margin-top: 90px;margin-bottom: 50px;} */
     .mid_blue_headers{text-align: center;display: block;padding-top: 50px;}
     .phone{display: none;}
+    .sec_mot_div{display: block;margin-left: -180px;}
     .transforms_img{padding-top: -150px;margin-left: 30px;}
-    .group{margin-top: -150px;display: inline-block;margin-left: -50px;}
-    .table_main{border: none;display: none;}
+    .group{margin-top: 150px;margin-bottom: 50px;}
+    .table_main{border: 0.5px solid grey; width: 900px; font-size: 40px;line-height: 80px;}
     td .i{display: none;}
-    .mid_blue_header{display: none;}
-    .reason{vertical-align: middle;justify-content: space-evenly;margin-left: 30px;}
-    .agenda{display: none;}
-    .biggie{display: none;}
-    
-    
-.div_tab
-    .btc_tab{margin-left: 0}
+    .icon_img{display: block;margin-left: 50%;}
+    .untop-secure_head{margin-left: 30%;height: 100px;width: 100px;}
+    .secure_head{font-size: 70px;}
+    .sec_p{font-size: 50px;}
+.first{margin: 50px;}
+.third{margin: 50px;}
+
+.stronger{
+    font-size: 50px;
+    margin-left: 100px;
+    color: grey;
+    font-family: CoinbaseSans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    display: block;
+
+}
+.second{margin: 50px;}
+.span_mid_blue_header{font-size: 50px;font-weight: lighter;}
+    .head_icon_img{display: block;margin-left: 40%;font-size: 50px;}
+    .mid_blue_header{display: block;height: 1500px;width: 1100px;font-size: 150px;}
+    .portfolio2_p{font-size: 45px; font-weight: lighter;line-height: 70px;display: flex;}
+    .reason{vertical-align: middle;justify-content: space-evenly;margin: 100px;display: block;}
+    .agenda{display: block; }
+    .p_transform{font-size: 95px; margin-left: 180px;display: block;}
+    .p_p_transform{font-size: 50px;margin-top: 40px;}
+    .biggie{display: block;width: fit-content;}
+    .block{display: block;}
+    .p_under_span_mid_blue_header{font-size: 50px;margin: 20px;}
+    .hr_head{font-size: 150px;}
+    .p_head{font-size: 70px;}
+    .under_span_mid_blue_header{font-size: 100px;margin: 20px;}
+    .transforms_img{display: inline-table;text-align: center;}
+    .container_email{
+        display: block;
+       margin: 50px;
+    }
+    .input{
+        display:block; width: 850px;height: 105px;font-size: 40px;margin-left: 5%;
+    }
+    .name{margin-left: -20px;}
+    .btc_tabs{height: 90px;width: 90px;border-radius: 50%;margin-left: -30px;float: left; }
+
+    main{
+
+        display: block;
+    }
+.div_tab{}
+    .btc_tab{margin-left: 0px;float: left;height: 90px;width: 90px;border-radius: 50%;}
     .prizes{display: none;}
-    .percent{vertical-align: middle;margin-left: 10px;text-align: center;}
-    .btc_sub_img{margin-left: 0;display: none;}
+    .percent{display: none;}
+    .btc_sub_img{margin-left: 0;display: inline-block;font-size:45px;}
     .input{margin-bottom: 30px;}
     .iheader{width: fit-content;}
 .me{display: none;}
-    .price{margin-left: -290px;vertical-align: middle;}
-    .get_started_btn{margin-left: 60px;}
+    .price{float: right;justify-content: center;align-items: center;}
+    .get_started_btn{margin-left: 5%;
+    width: 900px;height: 200px;font-size: 40px;
+    }
+    .h4_center{font-size: 100px;}
     .img_back{display: none;}
+    .view_s{float: left;font-size: 40px;text-align: left;margin-left: 50px;}
     .text_header{margin-left: 20px;}
     .text_header_log{margin-left: 40px;}
-
-
+.buy_btn{display: none;}
+.p_h4{font-size: 50px;margin-left: 40px;}
+.chart{display: none;}
+.letter{margin-bottom: 60px;}
+.advice{font-size: 90px;color: white;margin-left: 60px;vertical-align: middle;}
+.green_earn{font-size: 40px;margin-left: -40px;}
+.greens_earn{font-size: 40px;margin-left: -40px;}
+.greens_earns{font-size: 40px;margin-left: -40px;}
+.btc_img{width: 50px;height: 50px;border-radius: 50%;}
+.p_btn{height: 100px;width: 300px;font-size: 40px;margin-left: 25%;}
+.portfolio{font-size: 50px;font-weight: lighter;margin-top: 260px;}
+.banner_boy{width: 1100px;height: 900px;background: rgb(5, 53, 105);}
+.mother_transform{margin-top: 800px;}
+}
